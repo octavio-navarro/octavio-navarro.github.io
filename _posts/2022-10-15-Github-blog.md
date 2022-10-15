@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Starting a blog with Github pages"
+date: 2022-10-15
+tags: Learning GitHub
+---
+
 # Starting a blog with Github pages
 
 In an attempt to get myself to learn things outside of my current course materials, I though it would be a good idea to start a blog to record the process. The first of, hopefully, several posts, is actually setting the blog up.
