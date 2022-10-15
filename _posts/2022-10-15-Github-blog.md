@@ -46,6 +46,7 @@ Using the template was simple enough for me to start. I have some ideas to impro
 - Figuring out how to make or modify my own templates.
 - Making a more interesting landing page.
 - Showing only the latest posts in the landing page.
+- Adding a dark theme option.
 - Adding content to the resume page.
 - Adding more sections, such as `projects`.
 - Adding `threejs` content.
