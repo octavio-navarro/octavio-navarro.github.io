@@ -23,7 +23,7 @@ theme: "minima"
 sass:
   sass_dir: _sass
   style: dark-theme
-  
+
 # rss: rss
 
 kramdown:
@@ -41,8 +41,9 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - resume.html
-  - archive.html
+  - html/resume.html
+  - html/repos.html
+  - html/archive.html
 
 defaults:
   - scope:
