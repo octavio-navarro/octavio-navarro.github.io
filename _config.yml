@@ -25,7 +25,7 @@ minima:
 
 sass:
   sass_dir: _sass
-  style: dark-theme
+  # style: dark-theme
 
 # rss: rss
 
