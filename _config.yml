@@ -20,6 +20,9 @@ linkedin_username: "octavio-navarro-hinojosa"
 #########################################################################################
 theme: "minima"
 
+minima:
+  skin: dark
+
 sass:
   sass_dir: _sass
   style: dark-theme
