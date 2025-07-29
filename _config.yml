@@ -23,9 +23,9 @@ theme: "minima"
 minima:
   skin: dark
 
-sass:
-  sass_dir: _sass
-  # style: dark-theme
+# sass:
+#   sass_dir: _sass
+#   style: dark-theme
 
 # rss: rss
 
