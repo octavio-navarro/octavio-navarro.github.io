@@ -1,0 +1,17 @@
+$primary-color: #ffffff;
+$secondary-color: #333333;
+$background-color: #222222;
+$font-color: #ffffff;
+$link-color: #cccccc;
+
+// Import the default Jekyll theme
+@import "jekyll-theme-cayman";
+
+// Override the colors with the dark theme
+html {
+  --color-primary: $primary-color;
+  --color-secondary: $secondary-color;
+  --color-background: $background-color;
+  --color-font: $font-color;
+  --color-link: $link-color;
+}
